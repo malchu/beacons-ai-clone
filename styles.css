@@ -1,0 +1,19 @@
+* {
+  font-family: 'Noto Sans';
+}
+
+.links-container, .bio {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile {
+  background-image: url(https://yt3.googleusercontent.com/gspxd5mAFX8QUleeTarj8pxRcoiKkt42K12kSaFKri6Bu7W6x4UlmPTmCE0UKZwmXeGF9O5K=s900-c-k-c0x00ffffff-no-rj);
+  height: 130px;
+  width: 130px;
+  border-radius: 100px;
+  opacity: 1;
+  border: 2px solid rgb(133, 34, 38);
+}
